@@ -1,2 +1,8 @@
 # helloworld
-a basic program
+a basic program "hello world" 
+
+public class HelloWorld {
+    public static void main(String[] args){
+        System.out.println("HelloWorld!") ;
+    }
+}
